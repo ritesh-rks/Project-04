@@ -32,4 +32,4 @@ This project is a basic UI webpage which is created by using HTML and CSS. It's 
 
 # Thumbnail
 
-![thumbnail_pic](thumbnail.jpg)
+![Thumbnail](https://user-images.githubusercontent.com/109421054/182648895-d383e10e-b167-4bdd-864d-de3fca2767c1.PNG)
