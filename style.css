@@ -95,6 +95,7 @@
        flex-direction: column-reverse;
        text-align: center;
        margin-bottom: 1rem;
+       padding: 1rem;
     }
     .description{
         margin-top: 1rem;
